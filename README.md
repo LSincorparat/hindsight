@@ -1,0 +1,49 @@
+# Hindsight
+
+**Hindsight** is a GitHub-style git activity visualizer for your terminal. It scans your local directories for git repositories and aggregates your contribution history into a beautiful, blue, pixel-perfect heatmap.
+
+## Installation
+
+```bash
+cargo install hindsight
+```
+
+## Usage
+
+### Interactive TUI (Default)
+Run without arguments to scan the current directory and open the TUI:
+```bash
+hindsight
+```
+
+### Options
+
+| Flag | Description |
+|------|-------------|
+| `--path <PATH>` | directory to scan (default: current dir) |
+| `--days <N>` | Number of days to look back (default: 365) |
+| `--depth <N>` | Max recursion depth for finding repos (default: 3) |
+| `--authors "<NAMES>"` | Filter by comma-separated author list |
+| `--list` | Print detailed stats table to stdout |
+| `--export-tsv <FILE>` | Export stats to TSV file |
+
+### Examples
+
+**Analyze a specific workspace for the last 30 days:**
+```bash
+hindsight --path ~/Dev --days 30
+```
+
+**Filter for your own commits:**
+```bash
+hindsight --authors "Alice,Alice Smith"
+```
+
+**Export your yearly stats to a file:**
+```bash
+hindsight --export-tsv 2024_stats.tsv
+```
+
+## License
+
+MIT

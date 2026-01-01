@@ -1,0 +1,20 @@
+[package]
+name = "hindsight"
+version = "0.1.0"
+edition = "2024"
+authors = ["chaosprint <chaosprint@gmail.com>"]
+license = "MIT"
+description = "GitHub-style git activity visualizer for your terminal."
+keywords = ["git", "tui", "heatmap", "visualization", "analytics"]
+repository = "https://github.com/chaosprint/hindsight"
+readme = "README.md"
+
+[dependencies]
+anyhow = "1.0.100"
+chrono = "0.4.42"
+clap = { version = "4.5.53", features = ["derive"] }
+comfy-table = "7.2.1"
+crossterm = "0.29.0"
+git2 = "0.20.3"
+ratatui = "0.30.0"
+walkdir = "2.5.0"
