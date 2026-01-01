@@ -11,7 +11,7 @@
 cargo install hindsight
 ```
 
-> If you don't have cargo, install it from [here](https://doc.rust-lang.org/cargo/getting-started/installation.html).
+> You can get `cargo` [here](https://doc.rust-lang.org/cargo/getting-started/installation.html).
 
 ## Usage
 
